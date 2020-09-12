@@ -1,0 +1,37 @@
+html {
+    background-color: #e7a5e8;
+    font-family: 'Gayathri', sans-serif;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ddcfdd;
+    padding: 0 30px 20px 30px;
+    border: 10px solid black;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    color: #E129E4;
+    text-shadow: 2px 1px 1px black;
+}
+
+h3 {
+    margin: 0;
+}
+  
+p, li {
+    font-size: 16px;    
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
